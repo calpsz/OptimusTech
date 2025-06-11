@@ -1,0 +1,33 @@
+.cabecalho {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 7em;
+        height: 4rem;
+}
+
+.nav {
+    display: flex;
+    margin-right: auto;
+}
+
+.nav__lista {
+    display: flex;
+    margin-left: 6.5em;
+}
+
+.nav__links {
+    margin: 0 1em;
+    color: var(--cor-terciaria);
+}
+
+.nav__login {
+    display: flex;
+}
+
+.botao {
+    background-color: var(--cor-primaria);
+    padding: 0.8rem 1rem;
+    border-radius: 8px;
+    color: white;
+}
