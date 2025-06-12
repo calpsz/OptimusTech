@@ -1,0 +1,29 @@
+.banner {
+    text-align: center;
+    justify-content: center;
+}
+
+.banner__slogan {
+    text-align: center;
+    align-content: center;
+    padding: 6em 0;
+}
+
+.banner__sobre-nos {
+    color: var(--cor-primaria);
+    font-weight: 600;
+}
+
+.banner__titulo {
+    margin: 0.75em 0;
+    font-size: 3.2rem;
+    font-weight: 600;
+    color: var(--cor-secundaria);
+}
+
+.banner__paragrafo {
+    font-size: 1.25rem;
+    line-height: 1.5em;
+    margin: 0 auto;
+    width: 55%;
+}
