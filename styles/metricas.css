@@ -1,0 +1,27 @@
+.metricas-container {
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+}
+
+.metricas-container__div {
+    width: 20%;
+}
+
+.div__numero {
+    font-size: 3.75rem;
+    font-weight: 600;
+    color: var(--cor-primaria);
+}
+
+.div__titulo {
+    font-size: 1.12rem;
+    font-weight: 500;
+    color: var(--cor-secundaria);
+    padding-bottom: 0.5em;
+    padding-top: 0.8em;
+}
+
+.div__paragrafo {
+    line-height: 1.3em;
+}

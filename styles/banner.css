@@ -1,10 +1,5 @@
 .banner {
     text-align: center;
-    justify-content: center;
-}
-
-.banner__slogan {
-    text-align: center;
     align-content: center;
     padding: 6em 0;
 }
