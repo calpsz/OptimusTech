@@ -1,6 +1,7 @@
 @import url("header.css");
 @import url("banner.css");
 @import url("metricas.css");
+@import url("banner-vagas.css");
 
 :root {
     --cor-de-fundo: #FFFFFF;

@@ -1,0 +1,31 @@
+.banner-vagas {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 6em;
+    padding-bottom: 4em;
+}
+
+.banner-vagas__alerta {
+    color: var(--cor-primaria);
+    background-color: rgba(142, 36, 36, 0.05);
+    border-radius: 1em;
+    padding: 0.5em;
+}
+
+.banner-vagas__titulo {
+    color: var(--cor-secundaria);
+    font-weight: 600;
+    font-size: 2rem;
+    padding-top: 1em;    
+}
+
+.banner-vagas__paragrafo {
+    font-size: 1.25rem;
+    padding: 1.25em 0 4em 0;
+}
+
+.banner-vagas_img {
+    width: 84%;
+}
