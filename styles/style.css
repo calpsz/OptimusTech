@@ -3,10 +3,12 @@
 @import url("metricas.css");
 @import url("banner-vagas.css");
 @import url("vagas.css");
+@import url("comentarios.css");
 
 :root {
     --cor-de-fundo: #FFFFFF;
     --cor-primaria: #8E2424;
+    --cor-primaria-clara: rgba(142, 36, 36, 0.05);
     --cor-secundaria: #101828;
     --cor-terciaria: #667085;
     --fonte: "Inter";

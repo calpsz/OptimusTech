@@ -8,7 +8,7 @@
 
 .banner-vagas__alerta {
     color: var(--cor-primaria);
-    background-color: rgba(142, 36, 36, 0.05);
+    background-color: var(--cor-primaria-clara);
     border-radius: 1em;
     padding: 0.5em;
 }
