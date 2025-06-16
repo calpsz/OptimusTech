@@ -2,6 +2,7 @@
 @import url("banner.css");
 @import url("metricas.css");
 @import url("banner-vagas.css");
+@import url("vagas.css");
 
 :root {
     --cor-de-fundo: #FFFFFF;
@@ -9,6 +10,7 @@
     --cor-secundaria: #101828;
     --cor-terciaria: #667085;
     --fonte: "Inter";
+    --cor-borda: #EAECF0;
 }
 
 body {
