@@ -4,6 +4,7 @@
 @import url("banner-vagas.css");
 @import url("vagas.css");
 @import url("comentarios.css");
+@import url("footer.css");
 
 :root {
     --cor-de-fundo: #FFFFFF;
@@ -11,8 +12,10 @@
     --cor-primaria-clara: rgba(142, 36, 36, 0.05);
     --cor-secundaria: #101828;
     --cor-terciaria: #667085;
+    --cor-terciaria-clara: #98A2B3;
     --fonte: "Inter";
     --cor-borda: #EAECF0;
+    --cor-fundo-rodape: #F9FAFB;
 }
 
 body {
